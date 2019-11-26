@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_height="50dp"
+        android:text="JOSEPH STALIN" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/stalin"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Josef Stalin (asıl adı Yosif Visaryonoviç Cugaşvili) (d. 18 Aralık 1879[1]; Gori, Tiflis Guberniyası – ö. 5 Mart 1953, Moskova), Gürcü asıllı Sovyet devlet adamı, mareşal ve Sovyetler Birliği Komünist Partisi Genel Sekreteri (1922-1953). Lenin'in ölümünden sonra Komünist Parti Genel Sekreteri olarak nüfuzunu arttırdı ve 1927 yılında Sovyetler Birliği'nin lideri konumuna geldi. Marksist-Leninist ideolojinin ülkedeki uygulayıcısı oldu. Lakabı, Gürcü dilinde &quot;Çivi&quot; anlamına gelen &quot;Koba&quot;dır.[2]  Ekim Devrimi'ni planlayan ve başarıya ulaştıran liderler arasında yer alan, Rus İç Savaşı'nda cephe komutanlığı yapan ve II. Dünya Savaşı'nda muzaffer olan Kızıl Ordu'nun başkomutanı Stalin özellikle 1930'lu yıllarda Sovyet ekonomisindeki büyük kalkınma ve II. Dünya Savaşı'ndaki zaferden dolayı Rusya'da önemli bir devlet adamı olarak kabul edilmektedir. Rusya'da yapılan bir ankette 20. yüzyılın en başarılı üçüncü lideri seçildi.[3] Tarihte oynadığı önemli rol dolayısıyla pek çok tarihçi ve yazarın hakkında araştırma yaptığı Stalin'e dair 1108 eser yazıldı. Stalin bu özelliği ile hakkında en fazla eser yazılan 17. kişi oldu." />
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="RUSLARIN UYKUSUZLUK DENEYİ"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/textView"
+        android:layout_weight="0.02" />
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/rus1"
+        android:id="@+id/imageView2" />
+
+    <TextView
+        android:text="Savaş dönemi tutsaklarının kullanılmasıyla yapılan deneyler Rusya’da da yapılmıştır. Özellikle İkinci Dünya Savaşı sırasında ve sonrasında eldeki esirlerle acımasız deneyler yapmışlardır. Bunlardan en bilineni ve korkunç olanı Rus Uyku Deneyleri’dir. 1940’lı yılların sonunda İkinci Dünya Savaşı sırasında esir alınan 5 kişi 30 gün boyunca bir odada tutsak bırakılmış ve tetikleyici gazlarla uyanık kalmaları sağlanmıştır. Bu deneyle birlikte Ruslar insanların uykusuzlukta ne gibi tepkiler verebildiğini ölçmek istemişlerdir. Rus yetkililer 5 kişinin 15 gün sonunda tutsaklıklarının biteceğini belirterek onları oksijen seviyesinin sürekli kontrol edildiği, mikrofonlarla donatılmış, küçük gözlem camları olan bir odaya hapsetmişlerdir. Odada sadece uyumalarını engelleyecek yataksız karyolalar, kitaplar ve içeride bulunanlara 1 ay boyunca yetecek kadar yiyecek bulunmaktaydı."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_weight="0.02" />
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/rus2"
+         />
+
+    <TextView
+        android:text="Deneyin başlamasından sonra tetikleyici gazlarla uyanık tutulan tutsaklar için ilk beş gün sıkıntısız geçmişti. Denekler içeride bulundukları süre boyunca sürekli olarak gözlem camlarından ve mikrofonlardan takip edilmekteydi. Uzmanlar deneklerin beş gün sonrasında sürekli kendilerinin geçmişte yaşadıkları travmatik olaylardan bahsettiklerini gözlemlemeye başladılar. Aradan belirli bir süre geçtikten sonra denekler kendi aralarında konuşmayı bıraktılar ve gözlem camlarına ve mikrofonlara doğru diğer deneklerin duyamayacağı şekilde fısıltı halinde konuşmaya başladılar. Artık kendilerini gözlemleyen insanların varlıklarını sorguluyor ve onlarla iletişime geçmenin yollarını arıyorlardı. 9 günün sonunda ise daha önce yaşanmayan bir olay gerçekleşmiş ve bir denek hiç durmadan çığlık atmaya başlamıştır. Denek hiç durmadan odanın içinde bir uçtan bir uca koşarak 3 saat boyunca çığlık atmıştır. Denek anlamsız şekilde koşmasını ve bağırmasını bıraktığında ise Rus uzmanlara göre ses tellerini parçalamıştı. İlk denek sustuktan sonra ikinci denek aynı anlamsız hareketleri yapsa da diğer 3 denek bu olaya tepkisiz kalmaya devam etmişlerdir. 3 denek odada var olan kitapları sayfalarına ayırarak odada bulunan uzmanların onları gözlenmesine olanak sağlayan camları bu yapraklarla kapatmışlardır. Artık odayla dışarının tek bağlantısı mikrofonlar kalmıştır. 12. Günün sonunda ise uzmanlar içeriden hiçbir şekilde haber alamamaya başladılar. Tek bağlantı noktaları olan mikrofonlarda sorun olup olmadığını kontrol etseler de mikrofonlarda herhangi bir sıkıntı olmadığını kısa sürede fark ettiler. Odadaki oksijen seviyesi kontrol edildiğinde ise diğer günlerle aynı oranda olduğunu ve herhangi bir sıkıntı olmadığını düşündükleri için müdahale etme gereği duymadılar. İçerideki sessizlik 14. Günde de devam ettiği için uzmanlar içeriyi kontrol etmek maksatlı asker görevlendirmeye karar verdiler. Asker göndermeden önce içeriye anons yapan uzmanlar içeri girdiklerini, deneklerin geri çekilmeleri gerektiğini ve itaat etmeleri halinde içlerinden birinin koşulsuz hemen serbest kalacağını belirten anonslar yaptıysalar da içeriden duydukları ses onları tam anlamıyla şaşırtmıştır. İçerinden gelen ses deneklerin artık özgür olmak istemediğinden bahsetmekteydi. Askerlerin içeri girmelerini sağlayan uzmanlar odadaki tetikleyici gazların boşaltılmasını sağladılar ve odaya oksijen takviyesi yaptılar. Askerler odaya girdiklerinde ise daha önce hiç duyulmamış bir çığlık duydular. 15 gün içinde duymadıkları yükseklikteki ve acıdaki çığlıklar odaya henüz girmiş askerlerden gelmekteydi. Askerler 5 denekten 1 tanesinin öldüğünü diğerlerinin ise çok kötü durumda olduklarını bildirmiştir. Yiyecek erzakları ilk bırakıldığı günden farksız durmaktaydı. Ölen denek odada bulunan giderin üstünde bulunduğu için oda bir miktar sıvı ile kaplanmıştı. Sıvının kan olduğunu ise askerler bir müddet sonra fark etmişlerdi. Diğer dört deneğin ise vücutları paramparça olmuştu. Tırnaklarındaki duruma bakıldığında bu yaraları kendilerinin yaptıkları belli olmaktaydı. Ayrıca davranışlarından birbirlerine saldırmış oldukları da net bir şekilde görülmekteydi. Deneklerin organları sağlam olsa da, kan damarlarında herhangi bir sıkıntı gözükmese de çok kötü bir haldeydiler. Vücutlarının kötü durumuna rağmen sindirim sistemlerinin hala çalışıyor olması çok ilginçtir. İstifra ettiklerinde ortaya çıkan görüntü ise erzaklarının niye azalmadığını ortaya çıkarmıştır. Günlerdir birbirlerinin ve ölü deneğin etini yemişlerdi. Deneklerin yanına giren askerlerin çoğu özel eğitimli olsa da karşılaştıkları manzara ömürleri boyunca görmedikleri cinstendi. Hiçbiri deneklere dokunmaya cesaret edemiyor odadan çıkarılmak için adeta dışarıya yalvarıyorlardı. Tam bu sırada deneklerden birisi bir askere saldırdı ve boğazından yara alması sonucunda öldü. Bir başka askerin ise testislerini kopardılar ve bacaklarını yemeğe çalıştıkları için öldü. Odada çıkarılmayı bekleyen diğer 5 asker ise dayanamayarak intihar etmişlerdir."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.02" />
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/rus3"
+        />
+
+    <TextView
+        android:text="Sağ olan dört denekten birisinin dalağı patladığı için tıbbi müdahale gerekmekteydi. Onu sakinleştirmek için normalin çok üstünde morfin tatbik edilmiş olsa da hala bir hayvan gibi hareket etmekteydi. Sakinleştirmeye çalışan bir doktorun hem kolunu hem de kaburgasını kırmıştır. Denek kalbi durmasına rağmen 3 dakika boyunca bağırmaya devam etmiş ve kendisini dövmüştür. Sağlam kalan 3 denek ise tedavi edilmeleri için başka bir merkeze nakledilmişlerdir. Ses telleri patlayan denek haricindeki 2 kişi uyumaktan korktukları için sürekli aldıkları tetikleyici gaz için çevrelerindekilere yalvarmaktaydı. Bu sırada dışarı taşan organların yerlerine yerleştirmeleri gerekiyordu. Bunun için deneklere morfin uygulansa da hiçbir etkisi görülmedi. Tetikleyici gazlar nedeniyle deneklerin morfine de bağışıklık kazandığı düşünülmektedir. Bir denek kendisini tutan zincire ve askere rağmen kurtulmaya başarsa da hemen yüksek miktarda anestezi uygulandığı için kalbi dayanamamış ve ölmüştür. Kalan 2 denekten birisi ise odada çığlık atmaya başlayıp ses telleri zarar görendi. Kafasını anlamsız bir şekilde hareket ettirmekten başka bir şey yapmıyordu. Uzmanlar bu anlamsız hareketlerin anesteziden kaynaklandığını söylemekteydiler. Daha fazla anestezi verilip ameliyata alınan denek organları yerine yerleştirildikten sonra 6 saat boyunca hiçbir tepki vermemiştir.  Arada sadece gülümsediği gözlenmiştir.  Son canlı aklan denekte ise ameliyat edilmek için anestezi yeterli gelmediği için onu felç edici bir ilaç verdiler. Ameliyat sonrası uyanan deneğin ilk istediği ise tetikleyici gazlar olmuştur. Nedeni sorulduğunda ise sadece uyanık kalması gerektiğini söyleyerek etraftaki herkesi şaşırtmıştır. Denekler bu haldeyken uzmanlar onları ne yapacağını bilemeyerek birbirlerine bağlamışlar ve bir odada bekletmeye karar vermişlerdir. Bir komutanın merakı üzerinde diğer uzmanlar aynı fikirde olmasa da deneklere tekrar uyarıcı gaz verilmeye başlanmıştır. Uzmanlar uyumaları için her türlü düzeneğin ve konforun sağlandığı odaya denekleri götürmüş olsalar da artık deneklerin uyumamak için kendilerini zorladıklarını fark etmişlerdir. 2 denek sonrasında kısa süre içerinde ölmüş son kalan denek ise bir askerin çektiği acılarına dayanamamasına bağlı olarak onu vurmasıyla yaşamını yitirmiştir."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.02" />
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_height="50dp"
+        android:text="BENITO MUSSOLINI" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/mussolini"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Uluslararası arenada güçlendiğini ispat etmek için 1935'te Habeşistan'a asker çıkardı. Uzun ve nedensiz bir savaş sonunda Habeşistan'ı işgal eden İtalya, 1936 yılında Almanya ile Berlin-Roma Mihverini kurdu. Berlin-Roma Mihveri'nin kurulmasıyla Adolf Hitler'in İtalya üzerindeki etkisi arttı ve bu durum Kral III. Vittorio Emanuele ile birlikte İtalyan halkını endişelendirmeye başladı. İtalyan askerleri Alman askerleri gibi yürümeye başlamışlardı, Alman nazizmi İtalyan faşizminden daha koyuydu. Faşizm, nazizme göre bir ölçüde daha ılımlıydı. Sanayinin devletleştirilmesine ve kapitalist sınıfın ortadan kaldırılmasına da kesinlikle karşı bir rejimdi.  Hitler öncelikle Orta Avrupa, ardından Doğu ve Batı Avrupa'yı Almanya topraklarına katmak amacındaydı ve bu amaçla 1 Eylül 1939 sabahı Polonya sınırlarını geçti. Bu taarruzla II. Dünya Savaşı başlamış oldu. Daha önce Malta, Korsika ve Tunus'u İtalyan topraklarına katma ve &quot;Roma İmparatorluğu'nu canlandırma amacı&quot; taşıdığını söyleyen Mussolini de Almanya ile birlikte Mihver Devletleri bloğunda savaşa girdi. Birçok faşistin karşı çıkmasına rağmen 10 Haziran 1940'ta savaşa girdiklerini resmen ilan eden Mussolini, Kuzey Afrika ve Balkanlar'da Müttefik kuvvetlerine karşı mağlup oldu. Almanya'dan aldığı destek ile işgal ettiği bölgelerde direndi ancak İtalya'da gücünü kaybetmeye başladı." />
+
+</LinearLayout>
+</ScrollView>

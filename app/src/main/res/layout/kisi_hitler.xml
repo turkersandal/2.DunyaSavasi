@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_height="50dp"
+        android:text="ADOLF HITLER" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/kisi_hitler"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Adolf Hitler (20 Nisan 1889, Braunau am Inn - 30 Nisan 1945, Berlin), Avusturya doğumlu Alman politikacı, siyasi lider, teorisyen ve devlet adamı. 1919’da Alman İşçi Partisine (Deutsche Arbeiterpartei; DAP) üye olmasıyla başlayan politik yaşamı, bu partinin 1920’de Nasyonal Sosyalist Alman İşçi Partisine (Nationalsozialistische Deutsche Arbeiterpartei; NSDAP) dönüşmesiyle devam etti ve 1921’de parti başkanlığına yükseldi. Hitler’in Şansölye seçilmesi için önündeki engel 1925’ten 1932’ye kadar vatansız statüde olmasıydı. Bu engeli kaldırmak adına, dönemin İçişleri Bakanı ve aynı zamanda Thule Cemiyeti’nin üyelerinden olan Bakan Dietrich Klagges’in yaptığı atamayla,[2][3] Berlin’de bulunan Brunswick temsilciliğine atanarak devlet memuru statüsü kazandı ve Alman vatandaşlığına geçti. Bu şekilde 1933’te Şansölye seçilmesinin önündeki en büyük engel olan vatansızlık statüsü ortadan kalktı.[4][5][6] 1933’te, ülkede kurulan yeni koalisyon hükûmetinin başkanlığına atanmasıyla Şansölye (Reichskanzler) oldu. 1934’te, Cumhurbaşkanı’nın (Reichspräsident) makamını devraldı ve Führer (Lider) adında bir devlet başkanlığı makamı yarattı; devlet ve hükûmet başkanlıklarını Führer und Reichskanzler unvanını kullanarak bir arada yürüttü. Nasyonal sosyalizmin kurucusu olup Almanya’yı 12 yıl boyunca bu öğretiyle yönetmiştir. Bir politikacı ve asker olmanın yanı sıra ressam ve yazar idi.  Hitler, Almanya’da I. Dünya Savaşı sonrasında yaşanan Büyük Buhran’dan güç kazandı. Propaganda ve karizmatik bir dille, alt ve orta tabakanın ekonomik istemlerine ümit veriyordu; bunun yanında da belli bir seviyede milliyetçilik, sosyalizm, antisemitizm, anti-komünizm ve anti-kapitalizm de sunuyordu. Ekonominin tekrar kurulması, yeniden silahlandırılmış bir ordu ve totaliter ve faşist bir rejimle; Hitler Almanya içerisindeki düzeni yeniden tesis etti ve güçlü bir ülke yarattıktan sonra, saldırgan bir dış politika izleyerek Alman “yaşam alanı”nı (Lebensraum) genişletmek amacıyla Polonya’ya saldırdı. Yıldırım savaşı (Blitzkrieg) taktikleri ve Mihver Devletleri ittifakı ile birlikte Avrupa′nın büyük bölümünü ve Asya’nın bir kısmını işgal etti.  ABD’nin II. Dünya Savaşı’na Müttefikler’in tarafında katılması ve Kızıl Ordu’nun ilerlemesi ile Alman ordusu gerilemeye başladı. Sovyet güçlerinin 23 Nisan 1945’te Berlin'e girmesi ile Almanya’nın yenilgisi kesinleşmişti. Hitler; işgal altındaki Berlin’de, eşi Eva Hitler[7][8] (Eva Braun) ile yer altı sığınağında (Führerbunker)[9] 30 Nisan 1945 günü intihar etti. Cesedi -vasiyeti üzerine- takipçileri tarafından yakıldı. Alfred Jodl’ın 7 Mayıs 1945’te imzalayıp ertesi gün yürürlüğe giren teslim belgesiyle Büyük Alman İmparatorluğu son buldu.  Hitler’in saldırgan dış politikası, Avrupa’da II. Dünya Savaşı’nın patlak vermesinin ana nedeni olarak kabul edilir. Onun Yahudi karşıtı politikaları ve ırkçı ideolojisi, aşağı ırk mensubu olarak gördüğü en az 5.5 milyon insanın ölümüne neden oldu."
+        android:layout_weight="1.12" />
+
+
+</LinearLayout>
+</ScrollView>    

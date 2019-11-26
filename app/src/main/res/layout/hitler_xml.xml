@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="1-)Paris ve Londra Savaş Berlin İse Sanat Şehri Olacaktı"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="37dp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/paris"
+        android:layout_weight="0.07" />
+    <TextView
+        android:text="2-)Dünya, Fransız ve İngiliz Askerlerinin Vahşiliğini Konuşacaktı"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/ingiliz"
+        android:layout_weight="0.07" />
+    <TextView
+        android:text="3-)İngiltere ve Fransa, Almanya ve Dünya’dan özür Dileyecekti"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/ozur"
+        android:layout_weight="0.07" />
+    <TextView
+        android:text="4-)Kaybeden Tarafın Liderleri İdam Edilecekti"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/idam"
+        android:layout_weight="0.07" />
+    <TextView
+        android:text="5-)Kuzey Afrikada Fransa Yerine Almanya'nın Sömürgeleri Olacaktı"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/somurge"
+        android:layout_weight="0.07" />
+    <TextView
+        android:text="6-)NATO Ülkerleri Değişecekti"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/nato"
+        android:layout_weight="0.07" />
+    <TextView
+        android:text="7-)Alman Askerleri Kutsal Sayılacaktı"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/alman"
+        android:layout_weight="0.07" />
+    <TextView
+        android:text="8-)TÜRKLER Almanya Yerine Fransaya Çalışmaya Gidecekti"
+        android:layout_width="match_parent"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/fransiz"
+        android:layout_weight="0.07" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="0.23">
+    </com.google.android.gms.ads.AdView>
+
+
+</LinearLayout>
+</ScrollView>

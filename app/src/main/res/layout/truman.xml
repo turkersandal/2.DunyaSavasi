@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_height="50dp"
+        android:text="HARRY S. TRUMAN" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/truman"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Harry S Truman (d. 8 Mayıs 1884 – ö. 26 Aralık 1972), Amerika Birleşik Devletleri'nin 33. başkanıdır. Göreve 1945 yılında o zamanki başkan olan Franklin D. Roosevelt'in görev başında ölmesi sonucu başkan yardımcısıyken gelmiştir. Başkanlığa geldiğinde II. Dünya Savaşı'nın son ayları yaşanıyordu. Truman 1945 yılının Ağustos ayında savaşı daha çabuk kazanmak gerekçesiyle Hiroşima ve Nagazaki'ye atom bombası atılması kararını verdi. Truman, Hiroshima ve Nagasaki'ye atom bombası atılarak binlerce kişinin ölümüne sebebiyet vermekle kalmamış; aynı zamanda gelecek kuşak Japonların büyük sıkıntılar çekmelerine neden olmuştur.[1]  II. Dünya Savaşı bittikten sonra SSCB ve ABD arasında bir kutuplaşma ortamı doğdu. Batı Avrupa ülkeleri 1949 yılında ABD'nin başını çektiği NATO örgütünü kurdular. Doğu Avrupa ülkeleri ise SSCB'nin başını çektiği Varşova Paktı'nı oluşturdular. Böylece Truman zamanında Soğuk Savaş başlamış oldu.  1950 yılında ikiye bölünmüş olan Kore yarımadasında SSCB ve Çin destekli Kuzey Kore kuvvetleri Güney Kore'ye saldırarak büyük bir bölümünü işgal ettiler. Amerika Birleşik Devletleri Güney Kore'yi desteklemek için savaşa girdi. Yeni kurulmuş olan Birleşmiş Milletler'e üye olan 15 ülke de ABD'nin yanı sıra savaşa katıldılar. Türkiye bu 15 ülke arasında 5.000'i aşkın askeriyle 4. büyük katılımı oluşturdu. Kore Savaşı Truman'ın geri kalan başkanlığı sürecinde devam etti. Savaş kayıpları devam ettikçe halkın desteğini kaybettiği kanısına vardı. 1952 yılındaki başkanlık seçimlerinden adaylığını geri çekti ve 1953 yılında başkanlığa veda etti.  Truman, SSCB ve yanlısı olan ülkelere karşı ne pahasına olursa olsun mücadele edilmesine gerektiği ilkesine inanıyordu. Bu ilkeye Truman Doktrini adı verildi. Bu amaçla Truman, Dışişleri Bakanı General George C. Marshall ile birlikte II. Dünya Savaşı'ndan sonra Batı Avrupa ülkelerinin ekonomik durumunu düzeltmek amacıyla Marshall Planı denilen bir yardım paketi geliştirdi. Aynı amaçla 1947 yılında Yunanistan'la birlikte Türkiye'ye de 400 milyon dolarlık bir askeri ve ekonomik yardımı öngören ilk Amerikan yardımını başlattı. Bu yardımın 300 milyon doları Yunanistan'a, 100 milyon doları da Türkiye'ye ödenmiştir." />
+
+
+</LinearLayout>
+    </ScrollView>

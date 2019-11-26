@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:weightSum="1">
+
+    <TextView
+        android:text="PHILADELPHIA DENEYİ"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/textView"
+        android:layout_weight="0.02" />
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/philadelphia"
+        android:id="@+id/imageView2" />
+
+    <TextView
+        android:text="1943 yılında, Amerika' nın Pensilvanya eyaletine bağlı Philadelphia şehri limanında, Einstein' ın birleşik alanlar kuramına dayanarak &quot;Işınlanma&quot; deneyi yapıldığı iddia edildi.  Amerikan Deniz kuvvetlerine bağlı, Philadelphia deneyi ile donanmaya ait 1240 tonluk, USS Eldridge savaş gemisi içinde bulunan, 104 mürettebatıyla birlikte bir yerden bir yere taşınarak, ışınlandığı iddia edilmektedir. Yani geminin tayfalarla birlikte teleportasyon yapıldığı... USS Eldridge üzerinde son testler gerçekleştirildi. Elektromanyetik alan jeneratörlerinin çalıştırılmasıyla birlikte, USS Eldridge neredeyse görünmez oldu. Daha sonra gözleri kör eden mavi bir ışık hüzmesi içinde gemi tamamen kayboldu. Birkaç saniye içinde gemi millerce ötede bulunan, Virjinya Norfolk da tekrar ortaya çıktı. Birkaç saniye göründükten sonra tıpkı geldiği gibi esrarengiz bir biçimde kayboldu ve Philadelphia deniz üstüne tekrar ortaya çıktı. Bu kez mürettebatın tümünün başı ciddi bir şekilde beladaydı. Bazı tayfalar geri gelmemek üzere kaybolmuş, bazıları çıldırmıştı. Hepsinden daha tuhaf olanı ise 5 denizcinin, geminin eriyen ve sonra tekrar katılaşan metal aksamı içerisinde kalmalarıydı. Gemi belli bir zaman sürecinde fiziksel olarak tamamen kaybolmuş ve sonradan geri dönmüştü, deneyde sadece geminin görünmez olması hedeflenirken gemi moleküllerinden ayrılmış ve başka bir yere nakledilmişti. Bir başka iddiaya göre geminin birkaç saniyeliğine değil 4 saatliğine gözden kaybolduğuydu. Başka bir teoriye göre ise gemi zaman içerisinde yolculuk etmişti, nitekim deneyin sırasında gemiyi Norfolk Virjinya da görenler oldu. Gizemi çözülemeyen bu olay halen iddialarla sınırlıdır. İddia ortaya atan ise Carlos Miguel Allende dir. Carlos'  a göre aynı yukarıdaki gibi olmuştur. Amerikan Deniz Kuvvetlerinin ısrarla yalanladığı, Gökkuşağı projesi (Rainbow Project) resmi ismini taşıyan, üzerimde esrar perdesi bulunan bu deneyin amacının, düşman radarları tarafından tespit edilemeyen bir gemi yapmak, daha da ötesi optik görünmezlik teoremini gerçekleştirmekti. Deney için Albert Einstein doktor Nikola Tesla gibi önemli isimler görevlendirilmişti. Carlos miguel Allende, yapılan deneyi ilk olarak ortaya atan ve hakkında araştırma yapan ilk kişidir. Onun iddiaları üzerinden bu teori ortaya atılmış, zihinleri bulandıran bu test gerçekten yapıldı mı sorusu Amerikan Deniz Kuvvetlerine sorulduğunda evet yaptık denmiştir. Deniz kuvvetleri deneyin amacının, radarlarda görünmeyecek bir savaş gemisi üzerinde çalıştıklarını, Allende' nin hayal gücünün çok geniş olduğu, kesinlikle bir yerden bir yere taşınma gibi bir olayın olmadığını iddia etmiştir.Yani devlet bu olayı kesin bir dille yalanlanmıştır.   Ordu arşivlerde yapılan çalışmalarda görünmezlik veya teleportasyon gibi iddiaların olmadığını, kesin bir dille söylemiş fakat yapılan araştırmalarda, Eldridge gemisinin Norfolk Virjinya da limanda görüldü tanıklar tarafından söylenmiş olup hala sır perdesi aralanmamıştır. Philadelphia deneyi nin odak noktasını oluşturan 1240 tonluk bu sese Eldridge isimli destroyer New Jersey de inşa edildi ve 1943 yılında suya indirildi.Atlantikte escort görevlerinde bulunan gemi 1946 da ıskartaya çıkarıldı.1951 de Yunanistan deniz kuvvetlerine hibe edildi ve Leon ismi ile hizmete devam etti.Efsane gemiden en son 22 ekim 1999 da haber alındı.Bu gemi Yunanistan'ın Pire limanında jilet olmak için sırasını bekliyordu ve sonunda gerçekten görünmez oldu. Bugünün teknolojisi ile yapılması neredeyse imkansız olan bu deney acaba yapıldı mı yoksa Amerika bu iddiaların ortaya çıktığı sırada ikinci dünya savaşı devam etmekteydi.Amerika rakiplerine psikolojik üstünlük sağlamak için böyle bir yalanı ortaya sürmüş olabilir. Yoksa hepsi hayal ürünü mü siz söyleyin...."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_weight="0.02" />
+</LinearLayout>
+</ScrollView>

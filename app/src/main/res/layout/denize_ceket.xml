@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="DENİZE DÜŞEN CEKET"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/textView"
+        android:layout_weight="0.02" />
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/prlanta"
+        android:id="@+id/imageView2" />
+
+    <TextView
+        android:text="2. Dünya Savaşı esnasında, Amerikan askerleri, Kuzey Avustralya’nın oldukça vahşi ve namuslu insanların bulunmayacağı bir ülke olduğu kanaatine varmışlardı. Issız bir ileri karakolda vazife almış bir hava binbaşısının anlattığı ve hakikat olduğuna yemin ettiği hikâye ise Avustralyalıları bambaşka bir şekilde tanıtmaktadır… Gizli Radyolar, Japonlara, temerküz kamplarının dehşetinden kaçan kadınlar ve çocuklarla dolu iki Hollanda uçağının, işgal altındaki Cava’dan güneye uçtuğunu haber vermişti. İki uçak, Broome hava alanına birkaç dakika kala, Japon av uçaklarının hücumuna uğradı. Çook geçmedenHollanda uçaklarının ikisi de alevler içinde denize düştü. Uçaktakilerden yalnız bir pilot ile iki çocuk kurtuldu. Fakat, pilot ceketini denize düşürmek bedbahtlığına uğramıştı. Cekette çocukların ebeveyni tarafında kendisine emanet edilmiş düzinelerle yontulmamış pırlanta vardı. Çocukların ebeveyni, yanan uçakların içinde ölmüştü. Pilot büyük bir servet gizleyen ceketini kaybettiğini ilgili makamlara bildirince, yetimler Melbourne’daki bir yetimhaneye gönderildiler. İki hafta sonra, Avustralyalı serseri görünüşlü biri Broome’daki hava kuvvetleri karargâhına gelerek binbaşıyı görmek istediğini söyledi. Pilotun kaybolan ceketi elindeydi. Onu uçakların düştükleri yerin civarındaki çamur düzlüklerde bulmuştu. Serseri görünüşlü bu adam, ceketi Amerikan binbaşının masasının üzerine fırlattı. Sonra elini cebine atarak deri bir torba çıkardı ve onu binbaşının önüne koydu. Binbaşının torbanın ağzını gevşetmesiyle, pırlantalar masanın üzerine döküldü. Avusturalyalı: – Hepsi orada, dedikten sonra kapıya doğru yürüdü. Binbaşı, onun arkasından: – Bir dakika dur. İsmin ne? Diye sorduysa da adam istifini bozmadı. – Pırlantaları çocuklara iade et, dedi. Onların istikbalinin benimkinden parlak olmasını istiyorum. Bu sözleri söyledikten sonra da kapıdan çıkarak tozlu sokakta kayboldu. Onu bir daha ne gören oldu, ne de onun kim olduğunu bilen. Fakat 75.000 dolar değerindeki pırlantalar, iki küçük Hollandalı’nın, hakları olan bakım ve tahsile kavuşmalarını sağladı. "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_weight="0.02" />
+
+</LinearLayout>
+</ScrollView>

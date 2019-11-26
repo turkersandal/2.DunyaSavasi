@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="LOS ANGELES SAVAŞI"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="40dp"
+            android:text="1942 yılında Los Angeles semasında aniden ortaya çıkan devasa bir obje büyük bir paniğe sebep olmuştur. Olaya şahitlik edenlerin dediğne göre 1400 defa’dan fazla ateş edilmeğine rağmen obje hiç bir zarar görmeden geldiği gibi kayıplara karışmıştır. Bu gizemli olay günümüzde de gizemini saklamakta ve Los Angeles savaşı olarak tarihe geçmiştir."
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:layout_marginTop="160dp"
+            android:src="@drawable/losangles"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="CAP ARKONA,THE ILBEK ve ATHEN SALDIRISI "
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="Cap Arcona, Theilbeck ve Athen gemilerine doldurulan, çoğunlukla yahudi olan 10 bin’den fazla mahkum, İngilizler tarafından gizemli bir şekilde bombalandı. İngiliz istihbaratı bu gizemli olayın belgelerini 2045 yılına kadar mühürlemiştir."
+            android:layout_marginEnd="5dp" />
+
+        <ImageView
+            android:layout_marginTop="140dp"
+            android:src="@drawable/arcon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="ROMMEL İN HAZİNESİ"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+             />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:layout_marginTop="40dp"
+            android:text="Kuzey Afrikadan 30 mln dolarlık altın ve mücevherleri çalan Alman ordusu, Korsika kıyılarında batdı. Olayın gizemi ise, yapılan onca aramalara ramen hala hazinenin bulunamamasıdır. " />
+
+        <ImageView
+            android:layout_marginTop="130dp"
+            android:src="@drawable/rommel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="FOO SAVAŞÇILARI"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="82dp"
+            android:layout_marginTop="40dp"
+            android:text="2. Dünya savaşı sırasında her iki tarafın askerleri onların havada uçan tuhaf ışık toplarını gördüklerini rapor etmişler. Bazıları bunları UFO olarak bildirmiş. Ancak ortada her hangi bir kanıt yoktur ve olay gizemini sürdürmektde."
+            android:layout_marginBottom="5dp" />
+
+        <ImageView
+            android:layout_marginTop="140dp"
+            android:src="@drawable/foo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="SUBHAS CHANDRA BOSE'NİN ÖLÜMÜ"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="82dp"
+            android:layout_marginTop="40dp"
+            android:text="Hintli milliyetçi ve anti-emperyalist olan Subhas Chandra Bose, Tayvan yakınlarında bir uçak kazasına düşmüş, ancak cesedi hiç bir zaman bulamamıştır. Bazı inanışlara göre o Hindistana dönmüş ve bir keşiş olarak yaşamını sürdürmüştür. " />
+
+        <ImageView
+            android:layout_marginTop="140dp"
+            android:src="@drawable/bose"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="KEHRİBAR ODASI"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="Alman askerleri tarafından Ruslara mahsus Kehribar Odası olarak bilinen bu odanın altınla kaplı duvarlarından 2 tondan fazla altın çalınmış ancak bu kadar hazinenin nereye gittiğini hiç kimse bilmiyor. Bazılarına göre bu hazine bir dağ mağarasında saklı. Ancak henüz hazine bulunamamıştır." />
+
+        <ImageView
+            android:layout_marginTop="140dp"
+            android:src="@drawable/kehribar"
+            android:layout_width="match_parent"
+            android:layout_height="155dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="RUDOLF HESS'İN UÇUŞU"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="Hitlerin vekili olan  Hess savaş sırasında İngiltere ile barış görüşmesi yapmak üzere uçağına binerek İskoçya’ya gitti. Fakat o burada tutuklanarak yargılandı. Hitlerin en yakın adamlarından birinin neden böyle bir uçuşu tek başına yaptığını hiç kimse bilmiyor. Bazılarına göre Rudolf Hess Alman istihbaratı tarafından kandırılmıştır. " />
+
+        <ImageView
+            android:layout_marginTop="140dp"
+            android:src="@drawable/hess"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_weight="0.17"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="HEİNRİCH MÜLLER'İN KAYBOLUŞU"
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="Gestapo şefi olan Heinrich Müller Sovyet ordusunun Berline girmesi ile kayıplara karıştı. Olayın ardında hiç bir iz bırakmayan Müllerin akibeti hala belli değil." />
+
+        <ImageView
+            android:layout_marginTop="140dp"
+            android:src="@drawable/muller"
+            android:layout_width="match_parent"
+            android:layout_height="141dp" />
+    </android.support.v7.widget.CardView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="0.38">
+    </com.google.android.gms.ads.AdView>
+
+
+</LinearLayout>
+</ScrollView>

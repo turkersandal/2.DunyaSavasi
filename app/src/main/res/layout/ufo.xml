@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="2.ÜNYA SAVAŞINDA GÖRÜLEN UFOLAR"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/textView"
+        android:layout_weight="0.02" />
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/ufo"
+         />
+
+    <TextView
+        android:text="1943: Burma’dan Çin’e uçan ABD’li bombardıman pilotları, parlayan birtakım cisimlerden sinyal aldıklarını ve bu cisimlerin uçakların etrafını sardıklarını rapor etmişlerdir. Cisimler uzaklaşana kadar uçaktaki aletlerinin çalışmadığı bildirilmiştir.  1943 Ekim’inde, 348. Bombardıman grubu B-17 uçaklarıyla, Almanya’daki Schweinfurt’u bombalamaya başlamıştı. İşte tam bu sırada 2,5 cm. kalınlığında ve 10 cm. çapındaki küçük, gümüşi disklerin kendilerine doğru uçtuğunu gördüler. Binbaşı Holes, bunlardan birinin, bir uçağın kuyruğuna çarptığını, fakat hiçbir şey olmadığını rapor etti.  22 Aralık 1944: Düşman toprakları üzerinde 10 bin fit yükseklikte uçan müttefik pilotu birden, iki büyük, turuncu topun kendisine doğru yaklaştığını gördü. Onları telsiz operatörü de farketmişti. Bu cisimler düşman uçaklarına ya da bilinen herhangi bir şeye benzemiyorlardı. Cisimler aniden alçalarak uçağı takip etmeye başladılar. Bunun üzerine pilot manevralar yaparak onları atlatmaya karar verdi. Fakat bildiği en iyi manevraları denemesine rağmen onları atlatamadı. Pilot tam pes etmek üzereyken cisimlerin aniden gözden kaybolduklarını gördü.  1947: 1947’deki olayların birçoğu eğitimli gözlemciler tarafından bildirilmiştir. 28 Ağustos 1947’de Meksika’nın kuzeybatısında, 9000 fit yükseklikte uçan ordu savaş pilotu Ralph Johnson ve ordu kıdemli pilotu John Reilly, kuzeybatı yönüne doğru uçan disk şeklinde 3 cisim gördüklerini rapor ettiler. Bu cisimler her ne kadar günbatımının kızıllığını yansıtsalar da aslında gri renkteydiler. Diskler aynı yükseklikte uçuyorlardı. Takip emri alan pilotlar saatte 140 millik bir hızla seyretmelerine rağmen, UFO onları gerilerde bıraktı."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_weight="0.02" />
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/ufo1"
+        />
+    <TextView
+        android:text="Savaş sırasında bu cisimlerle ilgili pek çok gözlem daha bildirilmiştir, fakat bunların hiçbirinde cisimler herhangi bir saldırıda bulunmamışlardır. Bu da, cisimlerin gelişmiş düşman silahları olduğu tezini çürütmektedir. Savaş sona erdikten sonra, Alman pilotların da benzer cisimler gördükleri ve bunları Müttefiklerin gizli silahları sandıkları öğrenilmiştir."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.02" />
+
+
+</LinearLayout>
+    </ScrollView>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/silah_arka"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="BREN LMG"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/brenlmg"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="LUGER P08"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/lug1"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="FILAMMENWERFER 35"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/fllamenwerfer35"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="GEWEHR 43"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/gh43"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="KARABINER 98K"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/kara"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="LEE ENFIELD"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/leeenfield"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="M1 CARBINE"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/m1carbine"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="M1 GARAND"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/m1garand"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="THOMPSON"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/thomp"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="TYPE 100"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/type100"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="TYPE 99"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/type99"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="VOLKSSTURMGEWEHR"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/volks"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="MP 35"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/mp35"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.01"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:text="MP 40"
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_height="30dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/mp40"
+            android:layout_weight="0.07"
+            android:layout_marginTop="20dp" />
+    </android.support.v7.widget.CardView>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-4501104215816175/3388017929"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="0.26">
+    </com.google.android.gms.ads.AdView>
+    <
+</LinearLayout>
+ </ScrollView>

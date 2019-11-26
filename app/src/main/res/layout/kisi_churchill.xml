@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_height="50dp"
+        android:text="WINSTON CHURCHILL" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/chur"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="30 Kasım 1874'te, Randolph Churchill ve ABD'li eşi Jennie Jerome'un oğlu olarak dünyaya geldi. 1895'te Kraliyet Harp Okulunu bitirdi ve orduya girdi. Boer Savaşı'nda esir düştü ve kaçarak milli kahraman haline geldi. On ay sonra, Muhafazakâr Parti'den milletvekili seçildi.  1904'te Liberal Parti'ye girdi. 1911'de Bahriye Nazırı oldu. Başarılı siyasi kariyeri 1915 Gelibolu yenilgisinden sonra düşüşe geçti. Sadece donanmayla Çanakkale Boğazı'nın geçilebileceği, ardından da rahatça İstanbul’a ulaşılabileceği konusundaki ısrarcı tavrı, Türklerin umulandan çok daha başarılı bir savunma yapması; müttefik ordusunun tarihi yenilgisine yol açtı. Bu başarısızlığın mimarı olarak nitelendirilen Churchill, Britanya halkı karşında çok zor bir durumda kaldı ve muhaliflerinin de zorlamasıyla görevinden ayrıldı. Ancak 1917'de Cephane Bakanlığı'na ve Harbiye Bakanlığı'na getirildi. 1924'te tekrar Muhafazakâr Parti'ye girdi. Maliye Bakanı oldu (1924-1929).  1939'da bir kez daha Bahriye Nazırlığına ve 1940'ta Neville Chamberlain'ın yerine başbakanlığa getirildi. II. Dünya Savaşı'nda izlediği savaş politikası ve Roosevelt ile kurduğu iyi ilişkiler onu Britanya tarihinin en önemli devlet adamları arasına soktu. Yine bu dönemde Müttefik Devletlerin Balkanlar'a kaydırmaya çalıştığı strateji konusunda Ruslarla çalıştı. Ancak SSCB'nin burada hakim duruma geçmesinden de çekiniyordu. Bu yüzden savaşın başından itibaren stratejik önemi büyük olan Türkiye'yi savaşa sokmaya çalıştı. Kahire ve Adana'da Türk yöneticileriyle bu konuda yaptığı görüşmelerde, Türkiye'nin istediği askeri yardımı vermeye de yanaşmadı. Savaş sonrası Avrupa ülkelerinin birleşmesini sağlayan NATO, Avrupa Konseyi gibi kurumların oluşması için büyük çaba gösterdi. 1951 seçimlerinde tekrar iktidara geldi. 1955'te görevlerini aynı zamanda yeğeni Clarissa Churchill'in eşi olan Anthony Eden'e bırakarak siyasetten çekildi.  Son yıllarını daha çok yazarak ve resim yaparak geçirdi. 1953 yılında Nobel Edebiyat Ödülünü kazandı. 1963’te Amerikan Devleti, kendisine onursal vatandaşlık verdi. 1965 yılında, 91 yaşında inmeden öldü ve Blenheim Palace'a[1] gömüldü." />
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_height="50dp"
+        android:text="IMPARATOR HIROHITO" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/hirohito"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hirohito (Japonca: 裕仁, Shōwa Tennō 昭和天皇) (d. 29 Nisan 1901 - ö. 7 Ocak 1989), 1926'dan 1989'a kadar 63 yıl boyunca Japonya'yı yöneten 124. Japon imparatorudur. En uzun süre tahtta kalan imparatordur.  1901'de Tokyo’da doğdu. Babası İmparator Taişo, annesi Teimei’dir. Çocukluk adı Michinomiya idi. 1904'te Gakushūin 学習院 (soylular okulu ve müdürü Orgeneral Nogi Maresuke) ve 1921'de 'Veliaht okuma yeri'ni (東宮学問所 Tōgū Gakumonjo) bitirdi. Aynı yılda 6 aylık bir Avrupa gezisine çıktı. Böylece yurtdışına çıkan ilk Japon prensi oldu. Bu geziden dönünce, babası İmparator Toişo'nun hastalığı ağırlaşınca görevlerini yerine getiremez hale geldi. Bunun üzerine Hirohito, naip prens oldu.  1924’te Prenses Nagako ile evlendi. Babası 25 Aralık 1926’da ölünce Japon İmparatoru ilan edildi. Büyük Japon İmparatorluğu Anayasası (Dai Nihon Teikoku Kenpō) imparatora çok büyük yetkiler tanıyordu. II. Dünya Savaşı'nda Japonların yenilmesi üzerine, 15 Ağustos 1945’te radyoda Japonya’nın Potsdam Bildirisi’ni kabul ettiğini açıkladı. Bu konuşması ile Japon imparatorlarının geleneksel konuşmama âdetini bozdu.  ABD işgal yetkilileri Japonya’da demokratik bir anayasa hazırladılar. İmparatorun birçok yetkilerini sınırladılar. Hirohito, Japon inancına göre tanrısal güce sahip olduğu sanılan imparatorların bu iddiasından da vazgeçtiğini açıkladı. Hâkimiyet haklarının Japon halkına ait olduğunu ilan etti.  İmparatorluk ailesi ile Japon halkını birbirine yakınlaştırmak için Hirohito halkın içine de çıkmaya başladı. Geleneklerine uymamasına rağmen, kendisinin ve aile hayatı ile ilgili fotoğraf ve haberlerin yayınlanmasına izin verdi.  1971’de Avrupa gezisine çıktı. Aynı sene Anchoraga’da ABD başkanı Nixon ile görüştü. 1975’te ABD’ye resmî bir ziyaret yaptı.  Japon inanışına göre çok kutsal sayılan Japon İmparatoruna ait birçok geleneği yıkan Hirohito, yerine imparator olacak oğlu Akihito’nun halktan biri olan Şoda Miçikio’yla evlenmesini onayladı.  1989 senesinde Tokyo’da öldü. Hirohito hayatı boyunca deniz biyolojisi ile ilgilenmiş ve sarayında bu hususta çeşitli çalışmalar yapmıştır. İkisi erkek olmak üzere yedi çocuk babasıydı." />
+
+
+</LinearLayout>
+    </ScrollView>

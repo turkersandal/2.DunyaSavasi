@@ -1,0 +1,89 @@
+<resources>
+
+    <string name="app_name">2.Dunya Savasi</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4501104215816175/3388017929</string>
+
+    <array name="kisiler">
+        <item>ADOLF HITLER</item>
+        <item>BENITO MUSSOLINI</item>
+        <item>IMPARATOR HIROHITO</item>
+        <item>JOSEPH STALIN</item>
+        <item>WINSTON CHURCHILL</item>
+        <item>HARRY S. TRUMAN</item>
+    </array>
+
+    <array name="kronoloji">
+        <item> 1 Eylül 1939 Almanya’nın Polonya’ya saldırmasıyla II. Dünya Savaşı başladı.</item>
+        <item> 3 Eylül 1939 İngiltere ve Fransa, Almanya’ya savaş açtı.
+            </item>
+        <item> 28 Eylül 1939 2. Dünya Savaşı sırasında Almanya ve Sovyetler Birliği Polonya’nın paylaşımı için bir plan yaptılar
+        </item>
+        <item> 4 Haziran 1940 Alman Birlikleri Paris’e girdi.
+            </item>
+        <item>12 Haziran 1940 Ankara Hükümeti, Türkiye’nin 2. Dünya Savaşı’nda savaş dışı kalacağını açıkladı. Bakanlar Kurulu kararı açıklanırken, aynı zamanda Türkiye’nin İtalya ile ticari ilişkilerinin kesildiğini de bildirildi.
+</item>
+        <item> 27 Eylül 1940 Japonya, Almanya ve İtalya’nın askeri paktına katıldı
+            </item>
+        <item>6 Aralık 1940 Yunanistan, Arnavutluk’ta, Premete kentini işgal etti
+</item>
+        <item>1 Mayıs 1941 II. Dünya Savaşı’nın kapılarımıza kadar dayanması üzerine İstanbul’un tahliyesine (boşaltılmasına) başlandı.
+</item>
+        <item> 22 Haziran 1941 Almanya SSCB`yi istila etti.
+</item>
+        <item> 10 Ağustos 1941 Terra-Nova açıklarında, Pnihce of Wales zırhlısında Churchil ile Roosvelt arasında 2 gün sürecek Newfoundland Konferans’ı yapıldı; Gelecekteki paktın temellerini atan Atlantik Antlaşması ilan edildi.
+</item>
+        <item>8 Eylül 1941 Leningrad Almanlar tarafından kuşatıldı.
+</item>
+        <item>6 Aralık 1941 İngiltere, Romanya, Macaristan ve Finlandiya’ya savaş ilan etti
+ </item>
+        <item>25 Aralık 1941 Washington’da 14 Ocak 1945′e kadar sürecek olan Arcadia Konferansı başladı.
+ </item>
+        <item>26 Mart 1942 Naziler Yahudiler`i Auschwitz toplama kampına göndermeye başladı…
+</item>
+        <item>3 Haziran 1942 Midvay deniz savaşı başladı. iki gün süren savaşta Japonlar ağır kayıplar verdiler. Japonlar 4 uçak gemisi, 4 kruvazör, 8 nakliye gemisi ve 250 uçak kaybettiler. Bu deniz savaşı ile Japonların pasifikteki ilerleyişi duruldurulmuştur.
+</item>
+        <item> 23 Ekim 1942 General Montgomery komutasındaki İngiliz kuvvetleri Mihver cephesine karşı taarruza başladı. Taarruz başarılı oldu ve Müttefik kuvvetleri Aralık’ta Trablus’a girdiler.
+</item>
+        <item>8 Kasım 1942 General Eisenhover komutasındaki Amerikan kuvvetleri, Fas’ın Atlantik kıyıları ile Cezayir kıyılarına çıkmaya başladı.
+ </item>
+        <item> 20 Kasım 1942 İngilizler Bingazi’yi işgal etti
+</item>
+        <item>24 Kasım 1942 4. Stalingrad muharebesi başladı:
+</item>
+        <item>27 Kasım 1942 Alman orduları Tulon limanına girerken, buradaki Fransız donanması kendini yok etti
+ </item>
+        <item>24 Temmuz 1943 İtalya’da toplanan Büyük Faşist Konseyi, 10 saatli tartışmalardan sonra Benito Mussolini’yi iktidardan düşürdü. Mussolini istifa etmek zorunda kaldı.
+ </item>
+        <item>3 Eylül 1943 II.Dünya Savaşı sırasında mütefiklerin istilası üzerine İtalya, koşulsuz teslim oldu.
+</item>
+        <item>13 Ekim 1943 İtalya Almanya’ya savaş ilan etti.
+</item>
+        <item>28 Kasım 1943 Churchill, Stalin ve Roosevelt Tahran’da biraraya geldi. Bu üç lider şu kararları aldılar:İkinci cephenin açılması, Türkiye’nin savaşa girmesi, dünyanın savaş sonrası düzeni, Polonya’nın geleceği, Müttefik çıkarmasının Fransa’ya yapılması gibi konularda oldu. Tam bir anlaşma görülemedi. Ancak bu konferans Türkiye’nin savaşa girmesi isteğinin en net telaffuz edildiği toplantı oldu.
+ </item>
+        <item>26 Ocak 1944 II Dünya savaşı sırasında Sovyetler birliği topraklarına giren Alman ordusu ağır kış şartlarına rağmen uzun süre savaşmayı sürdürdü. Öyleki Almanların Leningrad kuşatması 8 Eylül 1941 başladı ve yaklaşık 900 gün devam etti. Ancak Ruslar Leningrad kuşatması boyunca açlıktan ölen 1.5 milyon insana rağmen şehirlerini Almanlara bırakmadılar.
+ </item>
+        <item>13 Ekim 1944 II. Dünya Savaşı’nda Amerikan orduları Almanya’nın Aachen kentine girdi.
+</item>
+        <item>27 Ocak 1945 Naziler’in 1940 Nisan’ında kurduğu en büyük toplama ve imha kampı olan Auschwitz, Sovyetler tarafından ele geçirildi. Auschwitz’de savaş boyunca yaklaşık iki buçuk milyon insan katledildi.
+</item>
+        <item>25 Şubat 1945 Türkiye, Almanya ve Japonya’ya savaş ilan etti.
+ </item>
+        <item> 20 Nisan 1945 II.Dünye Savaşı sırasında Sovyet birlikleri Berlin’e girdi.
+</item>
+        <item>7 Mayıs 1945 Almanya’nın teslim olmasıyla İkinci Dünya Savaşı Avrupa’da sona erdi. Uzakdoğu’da ise Japonya hala savaşıyordu.
+</item>
+        <item> 6 Ağustos 1945 Amerika Birleşik Devletleri, Japonya’nın Hiroşima şehrine ilk atom bombasını attı. Şehirde 10 kilometrekarelik alan yerlebir olurken, 66 bin kişi öldü, 70 bin kişi de yaralandı.
+</item>
+        <item> 10 Ağustos 1945 Japonya teslim olmayı kabul etti. II. Dünya Savaşı sona erdi.
+</item>
+        <item> 2 Eylül 1945 ABD Başkanı Truman zafer ilan etti ve İkinci Dünya Savaşı sona erdi.
+</item>
+        <item>1 Ekim 1946 Nürmberg’teki yargılamalar sonucunda 12 Nazi ölüm, 2 Nazi ömür boyu, 5 Nazi de çeşitli hapis cezalarına çarptırıldı
+</item>
+
+
+
+
+    </array>
+
+</resources>

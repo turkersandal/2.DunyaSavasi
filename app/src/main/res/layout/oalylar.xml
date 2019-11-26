@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/korkunc"
+    android:weightSum="1">
+
+
+    <Button
+        android:text="PHILEDELPHIA DENEYİ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:id="@+id/btn_phi"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/buton" />
+
+    <Button
+        android:text="RUSLARIN UYKUSUZLUK DENEYİ"
+        android:layout_width="match_parent"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buton"
+        android:id="@+id/btn_rus" />
+
+    <Button
+        android:text="UFOLAR"
+        android:textColor="#000000"
+        android:background="@drawable/buton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_ufo" />
+
+    <Button
+        android:text="LOS ANGELES SAVAŞI"
+        android:layout_width="match_parent"
+        android:background="@drawable/buton"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:id="@+id/btn_losangeles" />
+
+    <Button
+        android:text="DENİZE DÜŞEN CEKET"
+        android:textColor="#000000"
+        android:background="@drawable/buton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_deniz" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp">
+    </com.google.android.gms.ads.AdView>
+
+</LinearLayout>

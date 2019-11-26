@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="LOS ANGELES SAVAŞI"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/textView"
+        android:layout_weight="0.02" />
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="366dp"
+        android:layout_height="217dp"
+        android:src="@drawable/losangeles"
+        android:id="@+id/imageView2" />
+
+    <TextView
+        android:text="1942 yılının Şubat ayında 2.Dünya Savaşı sıralarında Los Angeles şehrinde on binlerce kişinin gözleri önünde yaşanan bu tuhaf olayda,gökyüzünde ne olduğu anlaşılamayan dev bir cisim belirdi. ABD ordusu paniğe kapılarak şehri korumak için 12.8 kalibrelik 14000 adet uçak savar mermisini bu cisme doğru ateşlemişti.Tüm bu saldırılara rağmen, en ufak bir hasar bile almayan cisim bir süre sonra göğe doğru uçarak kaybolmuştu.Bu olay dünya basınında yer aldıktan sonra bazı kişiler bu cismin üstün bir teknolojiye sahip bir Uzay Aracı olduğunu söylerken, bazısı da havada oluşan disk şeklinde bir gaz bulutu olduğunu iddia etmiştir."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_weight="0.02" />
+
+
+</LinearLayout>
+    </ScrollView>
